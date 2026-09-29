@@ -8,7 +8,7 @@ Road access shapes how quickly people can reach a clinic, especially during emer
 
 ## The data I need
 - Administrative/LGA boundary — DIVA-GIS — http://www.diva-gis.org/gdata — Shapefile — a few MB
-- Roads — GRID3 NGA Roads v1.0 — https://data.grid3.org/datasets/11f0f007bf68404dab4ecb96a535e52b_0/explore — GeoPackage/Shapefile — size shown at download
+- Roads and settlement — QUICKOSM PLUGIN
 - Health facilities — GRID3 NGA Health Facilities v2.0 — https://data.grid3.org/datasets/a0ed9627a8b240ff8b315a84575754a4_0/explore — GeoPackage/Shapefile — size shown at download
 
 ## What I would build
