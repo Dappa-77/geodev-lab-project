@@ -50,3 +50,7 @@ Working in EPSG:32632 (WGS 84 / UTM zone 32N), I buffered the health facilities 
 ## Tools
 
 QGIS, with the QuickOSM plugin.
+
+## Month2: development environment and early Python
+
+-Week 5: set up Python, VS Code and the terminal. hello.py runs.
