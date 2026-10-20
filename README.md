@@ -58,3 +58,5 @@ QGIS, with the QuickOSM plugin.
 -Week 6: set up the project with uv and add pandas
 
 -week7: analyse.py reads ward.csv converts each area and classifies each ward
+
+-week8 :inspect_data.py summarizes area and population in wards data
