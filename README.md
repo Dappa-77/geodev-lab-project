@@ -28,11 +28,11 @@ The full method, expectations, checks and limitations are in the [month 1 summar
 | Week 3 | [Data preparation](docs/03-data-preparation.md) | Cleaning, clipping and reprojection steps |
 | Week 4 | [Month 1 summary](month-1-summary.md) | Analysis, expectations, checks and limitations |
 | Week 4 | [Map](Settlement.png) | Final map of settlements, health facilities and paved roads |
-| Week 5 | [hello.py](hello.py), [screenshot](Screenshots/week5.png) | Set up Python, VS Code and the terminal; first script runs |
-| Week 6 | [pyproject.toml](pyproject.toml), [uv.lock](uv.lock), [check.py](check.py), [Screenshot](Screenshots/week6.png) | Project set up with uv, pandas added |
-| Week 7 | [wards.csv](wards.csv), [analyse.py](analyse.py), [screenshot](Screenshots/week7.png) | Reads the wards data, converts area and classifies each ward |
-| Week 8 | [wards.csv](wards.csv), [inspect_data.py](inspect_data.py), [screenshot](Screenshots/week8.png) | Summarizes area and population in the wards data |
-| Week 9 | [summary.py](summary.py), [screenshot](Screenshots/week9.png) | Capstone: refactored code and a `summarize_all` function on my data |
+| Week 5 | [hello.py](hello.py), [screenshot](Screenshot/week5.png) | Set up Python, VS Code and the terminal; first script runs |
+| Week 6 | [pyproject.toml](pyproject.toml), [uv.lock](uv.lock), [check.py](check.py), [Screenshot](Screenshot/week6.png) | Project set up with uv, pandas added |
+| Week 7 | [wards.csv](wards.csv), [analyse.py](analyse.py), [screenshot](Screenshot/week7.png) | Reads the wards data, converts area and classifies each ward |
+| Week 8 | [wards.csv](wards.csv), [inspect_data.py](inspect_data.py), [screenshot](Screenshot/week8.png) | Summarizes area and population in the wards data |
+| Week 9 | [summary.py](summary.py), [screenshot](Screenshot/week9.png) | Capstone: refactored code and a `summarize_all` function on my data |
 
 ## How the weeks connect
 
