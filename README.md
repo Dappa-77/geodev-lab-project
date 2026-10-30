@@ -59,4 +59,6 @@ QGIS, with the QuickOSM plugin.
 
 -week7: analyse.py reads ward.csv converts each area and classifies each ward
 
--week8 :inspect_data.py summarizes area and population in wards data
+-week8:inspect_data.py summarizes area and population in wards data
+
+-week9: summary.py refactoring code and summarize_all function on my data
