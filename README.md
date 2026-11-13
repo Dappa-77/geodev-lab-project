@@ -68,10 +68,9 @@ QGIS, with the QuickOSM plugin.
 
 -week8:inspect_data.py summarizes area and population in wards data
 
+-week9: summary.py refactoring code and summarize_all function on my data
+
 ## Month3: geospatial Python and automation
 
 -week10:Geopandas exploration, join and maps
 
-
-
--week9: summary.py refactoring code and summarize_all function on my data
