@@ -15,7 +15,7 @@ This folder holds my independent challenge for Week 12, applied to my own projec
 | Acquisition date | 26 January 2024 |
 | Processing date | 30 January 2024 |
 | Collection / Tier | Collection 2, Tier 1 |
-| Cloud cover | **[FILL IN: % from the EarthExplorer scene metadata]** |
+| Cloud cover | Less than 10 percent|
 | Bands used | `SR_B3` (Green) and `SR_B5` (NIR) |
 | Boundary layer | **[FILL IN: name of your polygon file, e.g. my boundary shapefile/GeoJSON]** |
 
